@@ -1,6 +1,9 @@
 "# myanmarbusiness-directory-get-data" 
 
+## Result Example
 
+![demo_1](demo_1.png "Example 1")
+![demo_2](demo_2.png "Example 2")
 ``` PS D:\Web Scriping> python .\mm-directory.py
 
             Welcome
