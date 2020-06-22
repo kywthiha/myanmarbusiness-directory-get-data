@@ -1,4 +1,4 @@
-"# myanmarbusiness-directory-get-data" 
+# myanmarbusiness-directory-get-data" 
 
 ## Result Example
 
